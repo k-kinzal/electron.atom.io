@@ -820,3 +820,9 @@
     - "email"
     - "productivity"
   icon: "tiliq.png"
+-
+  name: "chatwork"
+  description: Group chat for global teams"
+  website: "http://www.chatwork.com"
+  keywords: []
+  icon: "chatwork.png"
